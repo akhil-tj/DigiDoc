@@ -1,0 +1,18 @@
+Steps to follow:
+
+//Since the project is not complete proper functioning of the all the UI components may not be possible. And also the project cannot be run as a web application without the support of other aids.
+
+1. OPEN Visual Studio Code
+
+2. Copy the main.dart file from the lib diractory.
+
+3. run the program with the help of chrome.
+   //flutter run -d chrome(in the terminal)
+
+OR
+
+1. OPEN chrome and open the dartpad using the url below :
+   https://dartpad.dev/
+
+2. run the program
+   
